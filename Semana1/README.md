@@ -1,10 +1,10 @@
-# Practicas de Intro a Frontend
+# Prácticas de Intro a Frontend
 
 **Caso: Abogabot**
-- **Practicas**
+- **Prácticas**
 	- [Toma de requerimientos](./1.Requerimientos.pdf)
 	- [Buyer persona](./2.-buyerPersona.md)
 	- [Público objetivo](./3.-publicoObjetivo.md)
-	- [Wireframe UX](./4.-wireframe.md)
-	- [UI](./5.-ui.md)
+	- [Wireframe UX](https://www.figma.com/file/JaXCjewRfgRjRFoDhGAf3A/UX?node-id=0%3A1)
+	- [UI](https://www.figma.com/file/JaXCjewRfgRjRFoDhGAf3A/UX?node-id=0%3A1)
 
