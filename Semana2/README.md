@@ -8,7 +8,7 @@ Recordemos que solamente se necesita maquetar como un prototipo, **no es necesar
 - **Prácticas**
 	- [Página de pastelería](https://aguilarlima.000webhostapp.com/semana2/index.html)
 	- [Página de pastelero](https://aguilarlima.000webhostapp.com/semana2/index2.html)
-	- [Logotipo]
+	- [Logotipo](./logo.png)
 
 <br>
 
