@@ -5,6 +5,11 @@ Para la práctica de esta semana tendrán que maquetar en HTML el siguiente caso
 Recordemos que solamente se necesita maquetar como un prototipo, **no es necesario que tenga funcionalidad completa en la información**
 
 ## **Caso: Pastelería**
+- **Prácticas**
+	- [Página de pastelería](https://aguilarlima.000webhostapp.com/semana2/index.html)
+	- [Página de pastelero](https://aguilarlima.000webhostapp.com/semana2/index2.html)
+	- [Logotipo]
+
 <br>
 
 Descripción:<br>
